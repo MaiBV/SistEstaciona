@@ -12,3 +12,4 @@ C:\Área de Trabalho\SistEstaciona\obj\Debug\net8.0\refint\SistEstaciona.dll
 C:\Área de Trabalho\SistEstaciona\obj\Debug\net8.0\SistEstaciona.pdb
 C:\Área de Trabalho\SistEstaciona\obj\Debug\net8.0\SistEstaciona.genruntimeconfig.cache
 C:\Área de Trabalho\SistEstaciona\obj\Debug\net8.0\ref\SistEstaciona.dll
+C:\Área de Trabalho\SistEstaciona\obj\Debug\net8.0\SistEstaciona.sourcelink.json
